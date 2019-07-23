@@ -50,3 +50,4 @@ In this repository you will find all the workshop materials used during the two 
    
    Don't click -> **[Launch My Python Workshop on Binder]** <- until you have added ***your*** GitHub username.
    
+I forgot to make a commit name
